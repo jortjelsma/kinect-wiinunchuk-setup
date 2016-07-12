@@ -8,8 +8,8 @@
 				"name": "DK1_Kinectv2",
 				"position": "/je_nourish_kinectv2/KinectV2/semantic/body1/head",
 				"orientation": "/je_nourish_openhmd/Oculus Rift (Devkit)/semantic/hmd",
-				"alignInitialOrientation": true, /* Line up axes of Rift and Kinect */
-				"offsetFromRotationCenter": { /* Eyes are slight above and in front of center of head */
+				"alignInitialOrientation": true,
+				"offsetFromRotationCenter":
 					"x": 0,
 					"y": 0.01,
 					"z": -0.05
