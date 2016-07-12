@@ -9,7 +9,7 @@
 				"position": "/je_nourish_kinectv2/KinectV2/semantic/body1/head",
 				"orientation": "/je_nourish_openhmd/Oculus Rift (Devkit)/semantic/hmd",
 				"alignInitialOrientation": true,
-				"offsetFromRotationCenter":
+				"offsetFromRotationCenter": {
 					"x": 0,
 					"y": 0.01,
 					"z": -0.05
